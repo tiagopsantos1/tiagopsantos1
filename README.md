@@ -1,6 +1,5 @@
 ### Olá, eu sou o Tiago! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-pereira-188696180/)
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagopsantos1&show_icons=true&theme=onedark)
 
